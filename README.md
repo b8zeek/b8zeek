@@ -18,7 +18,7 @@ I am a dedicated software enthusiast fueled by passion and curiosity, who is in 
 -   _👯 I'm keen to connect with fellow visionaries in the Web3 space, looking forward to collaborative opportunities ✊_
 -   _🤔 My primary goal is to create something truly impactful that will enrich the community as a whole 🐾_
 -   _💬 If you're interested in profound philosophical discussions, don't hesitate to ask me about the purpose of life 🍀_
--   _📫 Reach me out at: [Telegram](https://t.me/bejzik) | [LinkedIn](https://www.linkedin.com/in/mirkobasic) | [GMail](mailto:bejzik8@gmail.com) 🧭_
+-   _📫 Reach me out at: [Telegram](https://t.me/b8zeek) | [LinkedIn](https://www.linkedin.com/in/mirkobasic) | [GMail](mailto:bejzik8@gmail.com) 🧭_
 -   _⚡ Fun fact: In the past, I used to breakdance, I can still windmill 😎_
 
 <br>
@@ -27,9 +27,9 @@ I am a dedicated software enthusiast fueled by passion and curiosity, who is in 
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bejzik8&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=b8zeek&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <div>
 
-<img align="left" src='https://komarev.com/ghpvc/?username=bejzik8&label=Profile%20views&color=0e75b6&style=flat' alt='bejzik8'>
-<img align="right" src="https://img.shields.io/github/followers/bejzik8?label=Follow&style=social" />
+<img align="left" src='https://komarev.com/ghpvc/?username=b8zeek&label=Profile%20views&color=0e75b6&style=flat' alt='b8zeek'>
+<img align="right" src="https://img.shields.io/github/followers/b8zeek?label=Follow&style=social" />
