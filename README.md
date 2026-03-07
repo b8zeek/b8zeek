@@ -10,7 +10,7 @@
 
 <h3>Tech stack</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,go,dart,solidity)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,go,dart,solidity)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,gatsby,astro,angular,flutter)](https://skillicons.dev)
 
@@ -20,9 +20,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vite,rollup,webpack,npm,yarn,pnpm,bun)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vercel,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vercel,heroku)](https://skillicons.dev) -->
 
-<br>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,go,dart,solidity,react,nextjs,gatsby,astro,angular,flutter,redux,graphql,styledcomponents,tailwind,sass,bootstrap,nodejs,express,mongo,postgres,vite,rollup,webpack,npm,yarn,pnpm,bun,git,github,gitlab,vercel,heroku)](https://skillicons.dev)
 
 <h3>GitHub stats</h3>
 
